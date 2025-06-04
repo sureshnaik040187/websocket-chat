@@ -12,6 +12,7 @@ async def handler(websocket, path):
         print("Client disconnected")
 
 async def health(request):
+    print("health check")
     return web.Response(text="OK", status=200)
 
 

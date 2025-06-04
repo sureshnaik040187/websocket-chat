@@ -1,2 +1,4 @@
 # websocket-chat
-Basic websocket with pythin
+Basic websocket with python
+
+
