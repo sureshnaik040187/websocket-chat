@@ -70,3 +70,4 @@ nosetests.xml
 
 # MacOS system files
 .DS_Store
+suresh_mac.pem
